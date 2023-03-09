@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"type":"text","text":"# JavaScript","id":"90cd9ae4e0f326c8","x":-80,"y":-280,"width":199,"height":60},
+		{"id":"b0aa5fab794267fc","x":-303,"y":-196,"width":250,"height":60,"type":"text","text":"## Resources\n\n- https://javascript30.com/\n- https://javascript.info/"}
+	],
+	"edges":[]
+}

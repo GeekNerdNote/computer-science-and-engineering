@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"type":"text","text":"## Analytical and Creative Problem Solving","id":"868a676904bbc028","x":-197,"y":60,"width":397,"height":98},
+		{"type":"text","text":"## Problem analysis and Solving","id":"3aa40f83f498e344","x":-197,"y":-100,"width":397,"height":98},
+		{"type":"text","text":"# Computer Science Soft-Skill","id":"6ab83f9b5fc02631","x":-197,"y":-300,"width":291,"height":116},
+		{"id":"2f505117340e0567","x":-156,"y":300,"width":250,"height":50,"type":"text","text":"English Language"},
+		{"id":"970fd19d4d2ff6eb","x":-281,"y":200,"width":250,"height":60,"type":"text","text":"Computation Thinking for problem solving"},
+		{"id":"60be2726f59d8ddc","x":-430,"y":640,"width":400,"height":400,"type":"link","url":"https://www.coursera.org/learn/computational-thinking-problem-solving"},
+		{"id":"a4cc28f7c6d720f6","x":-880,"y":109,"width":400,"height":400,"type":"link","url":"https://www.coursera.org/learn/computational-thinking-problem-solving"},
+		{"id":"fa974674cc2f54fa","x":180,"y":440,"width":250,"height":60,"type":"text","text":"Algorithmic Thinking"},
+		{"id":"6f74852de5f505ed","x":120,"y":230,"width":250,"height":60,"type":"text","text":"Collaboration and Teamwork"},
+		{"id":"7bfdce3534f3a3b9","x":-70,"y":440,"width":250,"height":60,"type":"text","text":"Communication in Science and Technology"},
+		{"id":"d0ea47c50fc0b93d","x":120,"y":350,"width":250,"height":60,"type":"text","text":"Presentation skills"},
+		{"id":"6ba1de9d02632005","x":-366,"y":403,"width":250,"height":60,"type":"text","text":"Business Thinking"}
+	],
+	"edges":[
+		{"id":"59d7c5604d16fbd3","fromNode":"6ab83f9b5fc02631","fromSide":"bottom","toNode":"3aa40f83f498e344","toSide":"top"}
+	]
+}

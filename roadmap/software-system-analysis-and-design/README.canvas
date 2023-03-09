@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"text","text":"# Software System analysis and Design","id":"f4b850a2dfd7d139","x":-269,"y":-189,"width":489,"height":109},
+		{"type":"text","text":"## Course","id":"7737b4fb5e5835d4","x":-92,"y":40,"width":136,"height":80},
+		{"type":"link","url":"https://www.freecodecamp.org/news/software-system-design-for-beginners/","id":"9fad054ce1e37ebe","x":-800,"y":40,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"c713edcd75dd248d","fromNode":"f4b850a2dfd7d139","fromSide":"bottom","toNode":"7737b4fb5e5835d4","toSide":"top"},
+		{"id":"79df7d0f3054d899","fromNode":"7737b4fb5e5835d4","fromSide":"left","toNode":"9fad054ce1e37ebe","toSide":"right"}
+	]
+}
