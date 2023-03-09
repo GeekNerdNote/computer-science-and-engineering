@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"text","text":"DISTRIBUTED OPERATING SYSTEMS","id":"a49b495b3f2c7732","x":-154,"y":96,"width":250,"height":84},
+		{"type":"text","text":"Unix/Linux","id":"bb1bbf6a3abdf0ab","x":-125,"y":-30,"width":250,"height":60},
+		{"type":"text","text":"Window","id":"6348e163ab48a2ae","x":-29,"y":-180,"width":250,"height":60},
+		{"type":"text","text":"MacOS","id":"89d4f84b34204ac7","x":-220,"y":-280,"width":250,"height":60},
+		{"type":"text","text":"Android","id":"1e86d2a3b92fb7a8","x":-320,"y":-150,"width":250,"height":60},
+		{"type":"text","text":"System\n\nProgramming","id":"2bebc9e1ea052005","x":-250,"y":220,"width":250,"height":100}
+	],
+	"edges":[]
+}

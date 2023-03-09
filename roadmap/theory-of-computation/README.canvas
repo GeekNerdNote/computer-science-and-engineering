@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"cf1a7f6ce4344426","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Complexity Theory"},
+		{"id":"2dc31944a9618df6","x":-304,"y":-230,"width":250,"height":60,"type":"text","text":"Theory of Computation"},
+		{"id":"b64879d42d885bd8","x":-309,"y":-56,"width":250,"height":60,"type":"text","text":"Formal Languages"},
+		{"id":"0d45e8765fafc6e8","x":-236,"y":96,"width":250,"height":60,"type":"text","text":"Automata Theory"}
+	],
+	"edges":[]
+}

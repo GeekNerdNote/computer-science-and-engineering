@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"3e51899357347cf1","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Date Warehouse"},
+		{"id":"85255b674049d638","x":-100,"y":-300,"width":250,"height":60,"type":"text","text":"Data Mining"},
+		{"id":"ab8b6b97613881bb","x":-80,"y":120,"width":250,"height":60,"type":"text","text":"Database Management Systems\nDesign"},
+		{"id":"3aff272f9fc32c49","x":-260,"y":-180,"width":250,"height":60,"type":"text","text":"CRUD Method "},
+		{"id":"1c2e5f9e13dbb656","x":-350,"y":120,"width":250,"height":60,"type":"text","text":"Distributed Database Systems"},
+		{"id":"e09cad6eb48ac5dc","x":-135,"y":-380,"width":250,"height":60,"type":"text","text":"Database Systems"}
+	],
+	"edges":[]
+}

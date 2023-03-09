@@ -5,23 +5,23 @@
 		{"type":"text","text":"### Stack","id":"88d84414b4e1b621","x":-326,"y":-34,"width":108,"height":69},
 		{"type":"text","text":"### Abstract Data Type","id":"38479d22fcd247a6","x":-326,"y":-175,"width":156,"height":111},
 		{"type":"text","text":"### Linked lists","id":"a5e78aa878d13715","x":-172,"y":-32,"width":215,"height":66},
-		{"type":"text","text":"## Data Structures","id":"3cf463afdc294798","x":77,"y":-175,"width":272,"height":77},
 		{"type":"text","text":"## Algorithms","id":"f19db674ba1feda0","x":117,"y":21,"width":192,"height":77},
 		{"type":"text","text":"### Searching","id":"3488578b6aefd1a1","x":400,"y":101,"width":167,"height":79},
 		{"type":"text","text":"### Sorting","id":"67908dc2ad786250","x":403,"y":-32,"width":140,"height":76},
 		{"type":"text","text":"# Data Structures and Algorithms","id":"9f288780b778ae89","x":62,"y":-400,"width":287,"height":120},
-		{"type":"text","text":"### Design and Analysis of Algorithm","id":"cddde80da5ef7e5a","x":-172,"y":98,"width":185,"height":141}
+		{"type":"text","text":"### Design and Analysis of Algorithm","id":"cddde80da5ef7e5a","x":-172,"y":98,"width":185,"height":141},
+		{"type":"text","text":"## Data Structures","id":"3cf463afdc294798","x":-336,"y":-417,"width":272,"height":77}
 	],
 	"edges":[
 		{"id":"e9c76f0318d265c3","fromNode":"73580cbd5b67bd8a","fromSide":"left","toNode":"6fd4375a929bc31a","toSide":"right","toEnd":"none"},
 		{"id":"5fab0e854c337d3b","fromNode":"88d84414b4e1b621","fromSide":"left","toNode":"73580cbd5b67bd8a","toSide":"right","toEnd":"none"},
 		{"id":"4ef329b874bd2bb3","fromNode":"a5e78aa878d13715","fromSide":"left","toNode":"88d84414b4e1b621","toSide":"right","toEnd":"none"},
 		{"id":"4ff49e5b0692b452","fromNode":"3cf463afdc294798","fromSide":"left","toNode":"a5e78aa878d13715","toSide":"top","toEnd":"none"},
-		{"id":"15528403daea9a35","fromNode":"3cf463afdc294798","fromSide":"bottom","toNode":"f19db674ba1feda0","toSide":"top"},
+		{"id":"15528403daea9a35","fromNode":"9f288780b778ae89","fromSide":"bottom","toNode":"f19db674ba1feda0","toSide":"top"},
 		{"id":"e81a0808d777915d","fromNode":"3cf463afdc294798","fromSide":"left","toNode":"38479d22fcd247a6","toSide":"right","toEnd":"none"},
 		{"id":"e014bb0b0b77f610","fromNode":"f19db674ba1feda0","fromSide":"left","toNode":"cddde80da5ef7e5a","toSide":"right","toEnd":"none"},
 		{"id":"3eeb0767c34d80be","fromNode":"f19db674ba1feda0","fromSide":"right","toNode":"67908dc2ad786250","toSide":"left","toEnd":"none"},
 		{"id":"ed42e9c797b64b75","fromNode":"f19db674ba1feda0","fromSide":"right","toNode":"3488578b6aefd1a1","toSide":"left","toEnd":"none"},
-		{"id":"9fe9c3a443ebdc31","fromNode":"9f288780b778ae89","fromSide":"bottom","toNode":"3cf463afdc294798","toSide":"top"}
+		{"id":"9fe9c3a443ebdc31","fromNode":"9f288780b778ae89","fromSide":"left","toNode":"3cf463afdc294798","toSide":"top"}
 	]
 }

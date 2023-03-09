@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"73952ec0e8beb63a","x":-228,"y":-193,"width":448,"height":113,"type":"text","text":"# Computer Networking and Data Communication "},
+		{"id":"fb49411939375fb2","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Data Communication and Network System"},
+		{"id":"9ebd4a4453b0c1a7","x":-30,"y":100,"width":250,"height":60,"type":"text","text":"Computer Network Design"},
+		{"id":"793d006a67b2fd20","x":193,"y":573,"width":250,"height":60,"type":"text","text":"Socket Network Programming"},
+		{"id":"41967dad5be2da62","x":220,"y":800,"width":250,"height":50,"type":"text","text":"Network Quality of Services"},
+		{"id":"19f43902b5950d6b","x":111,"y":689,"width":250,"height":60,"type":"text","text":"Wireless Communication"},
+		{"id":"c4e56bc7b914ef91","x":95,"y":940,"width":250,"height":60,"type":"text","text":"Network Design and Administration"},
+		{"id":"8f02ce395d8089b8","x":-320,"y":740,"width":250,"height":60,"type":"text","text":"Network Management"},
+		{"id":"0d56473515fc2f01","x":-30,"y":380,"width":250,"height":60,"type":"text","text":"Network Security"},
+		{"id":"75e9abdbb6c807a1","x":500,"y":970,"width":250,"height":60,"type":"text","text":"API"},
+		{"id":"d7facf64c211dc2e","x":340,"y":880,"width":250,"height":60,"type":"text","text":"OSI Models"}
+	],
+	"edges":[]
+}
