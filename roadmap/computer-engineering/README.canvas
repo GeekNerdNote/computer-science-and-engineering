@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"cd2d501396888291","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Computer Engineering"},
+		{"id":"f2b6c9b62e18e4d5","x":-125,"y":-220,"width":250,"height":60,"type":"text","text":"Computer Hardware"},
+		{"id":"044cb6de7725ef5b","x":-125,"y":60,"width":250,"height":60,"type":"text","text":"Digital Computer Logic"},
+		{"id":"cbc239dc396e06f3","x":-125,"y":-120,"width":250,"height":60,"type":"text","text":"Electrics"},
+		{"id":"2d3db091f185aff3","x":-125,"y":160,"width":250,"height":100,"type":"text","text":"Computer Electronics and Interfacing"},
+		{"id":"ba8406c8f0ed45ce","x":-140,"y":-360,"width":250,"height":60,"type":"text","text":"Computer Engineering Mathematics"},
+		{"id":"881862d50fd43598","x":-125,"y":260,"width":250,"height":60,"type":"text","text":"Digital Design and Verification"},
+		{"id":"a20b4e349875a8a6","x":-163,"y":379,"width":250,"height":60,"type":"text","text":"Digital Systems"}
+	],
+	"edges":[]
+}

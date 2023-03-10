@@ -1,0 +1,10 @@
+{
+	"nodes":[
+		{"id":"9d9b652c753e5368","x":-135,"y":237,"width":250,"height":60,"type":"text","text":"Interactive Computer Graphics"},
+		{"id":"53d8588006b42672","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"Graphic API"},
+		{"id":"81f3be89eb860e65","x":-125,"y":-200,"width":250,"height":60,"type":"text","text":"OpenGL"},
+		{"id":"681fc044c35c8782","x":-125,"y":80,"width":250,"height":60,"type":"text","text":"Vulkan"},
+		{"id":"d2b5b50c1c8f4305","x":-125,"y":-120,"width":250,"height":60,"type":"text","text":"DirectX"}
+	],
+	"edges":[]
+}

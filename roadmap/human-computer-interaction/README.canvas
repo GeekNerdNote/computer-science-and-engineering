@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"eed821b4dca81bed","x":-125,"y":-30,"width":250,"height":90,"type":"text","text":"Designing Interactive Systems"},
+		{"id":"627b6552f628069b","x":-140,"y":-300,"width":250,"height":120,"type":"text","text":"User Interface Design and User Experience "}
+	],
+	"edges":[]
+}

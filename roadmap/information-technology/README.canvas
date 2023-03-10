@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"1dbd40878e728a3b","x":-125,"y":-30,"width":250,"height":110,"type":"text","text":"Information Technology Theory, System, and Management "},
+		{"id":"48647995e8f1ec5b","x":-105,"y":886,"width":250,"height":154,"type":"text","text":"Large-Scale Information Systems"},
+		{"id":"b732eab4e1e6cdd4","x":-105,"y":540,"width":250,"height":60,"type":"text","text":"Information Security"},
+		{"id":"5bc9605f428a04c5","x":-120,"y":660,"width":250,"height":162,"type":"text","text":"Information Storage and Retrieval"},
+		{"id":"3a30ecea4bcedb64","x":180,"y":903,"width":250,"height":60,"type":"text","text":"Information Processing"},
+		{"id":"0b250fa701604e38","x":80,"y":1140,"width":250,"height":60,"type":"text","text":"Enterprise information System"},
+		{"id":"19bbab0be487ff3d","x":205,"y":711,"width":250,"height":60,"type":"text","text":"Information Technology"}
+	],
+	"edges":[]
+}
