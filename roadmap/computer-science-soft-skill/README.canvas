@@ -12,8 +12,8 @@
 		{"type":"text","text":"Communication in Science and Technology","id":"7bfdce3534f3a3b9","x":-70,"y":440,"width":250,"height":60},
 		{"type":"text","text":"Presentation skills","id":"d0ea47c50fc0b93d","x":120,"y":350,"width":250,"height":60},
 		{"type":"text","text":"Business Thinking","id":"6ba1de9d02632005","x":-366,"y":403,"width":250,"height":60},
-		{"id":"9eb0bd72484dcb99","x":-375,"y":489,"width":250,"height":60,"type":"text","text":"### Systematic Thinking"},
-		{"id":"46280d8f078a1e10","x":-50,"y":610,"width":250,"height":60,"type":"text","text":"Communication in Science and Technology"}
+		{"type":"text","text":"### Systematic Thinking","id":"9eb0bd72484dcb99","x":-375,"y":489,"width":250,"height":60},
+		{"type":"text","text":"Communication in Science and Technology","id":"46280d8f078a1e10","x":-50,"y":610,"width":250,"height":60}
 	],
 	"edges":[
 		{"id":"59d7c5604d16fbd3","fromNode":"6ab83f9b5fc02631","fromSide":"bottom","toNode":"3aa40f83f498e344","toSide":"top"}
